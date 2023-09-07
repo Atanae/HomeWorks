@@ -1,0 +1,15 @@
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.csproj.AssemblyReference.cache
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.AssemblyInfoInputs.cache
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.AssemblyInfo.cs
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.csproj.CoreCompileInputs.cache
+D:\Домашки\C#\Examples\Less3.4\bin\Debug\net6.0\Less3.4.exe
+D:\Домашки\C#\Examples\Less3.4\bin\Debug\net6.0\Less3.4.deps.json
+D:\Домашки\C#\Examples\Less3.4\bin\Debug\net6.0\Less3.4.runtimeconfig.json
+D:\Домашки\C#\Examples\Less3.4\bin\Debug\net6.0\Less3.4.dll
+D:\Домашки\C#\Examples\Less3.4\bin\Debug\net6.0\Less3.4.pdb
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.dll
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\refint\Less3.4.dll
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.pdb
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\Less3.4.genruntimeconfig.cache
+D:\Домашки\C#\Examples\Less3.4\obj\Debug\net6.0\ref\Less3.4.dll
