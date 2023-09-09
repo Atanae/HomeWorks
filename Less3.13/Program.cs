@@ -7,11 +7,13 @@
 string ThirdDigit()
 {
     Console.Write("Введите любое число -> "); 
-    string textDigit = (Console.ReadLine());
+    int digit = Convert.ToInt32(Console.ReadLine());
    
-    if (textDigit.Length < 3)
+    if (digit < 100)
         return("Третьей цифры нет");
     else 
-        return("Третья цифра "+textDigit[2]);    
+        while(digit > 999)
+            digit /= 10;
+        return("Третья цифра "+Convert.ToString(digit % 10));    
 }
 Console.WriteLine(ThirdDigit());
