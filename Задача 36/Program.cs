@@ -36,7 +36,7 @@ void PrintArray(int[] arr, int len)
 void PrintRez(int[] arr, int len, string mess)
 {
     int sum = 0;
-    for (int i = 1; i < len; i+=2)
+    for (int i = 0; i < len; i+=2)
     {
         sum +=arr[i];
     }
